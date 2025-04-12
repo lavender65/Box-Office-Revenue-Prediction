@@ -1,7 +1,9 @@
 # Movie Box-Office Revenue Prediction
 
 Movie Box Office Revenue Prediction using Linear Regression
+
 A simple program to predict the revenue a movie can generate , based on the data of previous movies' budget and their revenue
+
 Uses the following Python libraries -
 
 Pandas to import csv files and create DataFrame for Target and Feature
